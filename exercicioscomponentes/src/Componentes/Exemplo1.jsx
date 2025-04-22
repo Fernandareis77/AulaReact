@@ -4,9 +4,7 @@ export default function Exemplo1({numero1, numero2})
 
     return(
         <div>
-            <h3> Exemplo 1 - Calculadora </h3>
-
-             A soma dos números é {soma}
+             <p> A soma dos números é {soma} </p>
         </div>
     );
 
