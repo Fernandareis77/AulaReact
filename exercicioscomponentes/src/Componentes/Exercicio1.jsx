@@ -5,7 +5,7 @@ export default function Exercicio1({fah})
 
     return(
         <div>
-             <p> A conversão de {fah}°F para Celsius é {celsius}°C </p>
+            A conversão de {fah}°F para Celsius é {celsius}°C <br/>
         </div>
     );
 }
