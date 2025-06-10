@@ -9,7 +9,7 @@ export default function App( )
      
      <hr/>
      <h3> Exercício 9 </h3>
-     <Exercicio9  capital={2000} juros={2} tempo={4}/>
+     <Exercicio9  capital={1000} juros={10} tempo={2}/>
 
      </div>
   )

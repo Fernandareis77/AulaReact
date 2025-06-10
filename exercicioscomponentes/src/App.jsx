@@ -4,7 +4,7 @@ import Exercicio2 from "./Componentes/Exercicio2"
 import Exercicio3 from "./Componentes/Exercicio3"
 import Exercicio4 from "./Componentes/Exercicio4"
 import Exercicio5 from "./Componentes/Exercicio5"
-import Exercicio6 from "./Componentes/Exercicio6"
+
 
 
 export default function App()
@@ -45,8 +45,7 @@ export default function App()
      <Exercicio5  quantidade={10} />
      <p><Exercicio5  quantidade={20} /></p>
 
-     <hr/>
-     <h3> Exercício 6 </h3>
+     
      
 
 

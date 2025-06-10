@@ -4,7 +4,7 @@ export default function Exercicio9({capital,juros,tempo})
 
     return(
     <div>
-         Sua Montante é {montante} 
+         Sua Montante é {montante.toFixed(2)} 
     </div>
 
     );
