@@ -46,10 +46,7 @@ export default function App()
      <p><Exercicio5  quantidade={20} /></p>
 
      
-     
-
-
      </div>
   )
-
+  
 }
