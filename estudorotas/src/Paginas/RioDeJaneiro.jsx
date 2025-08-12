@@ -3,7 +3,7 @@ export default function RioDeJaneiro()
 
     return (
         <div>
-            <h1> Seja Bem Vindo ao Estado de Rio de Janeiro </h1>
+            <h1> Seja Bem Vindo ao Rio de Janeiro </h1>
 
             <p>
                 O estado do Rio de Janeiro é famoso por suas belas paisagens naturais, como praias, montanhas e a Baía de Guanabara.
@@ -13,7 +13,7 @@ export default function RioDeJaneiro()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/RJ.png" alt="" />
             </p>
 
             <p>

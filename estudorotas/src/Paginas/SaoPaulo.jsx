@@ -3,7 +3,7 @@ export default function SaoPaulo()
 
     return (
         <div>
-            <h1> Seja Bem Vindo ao Estado de São Paulo </h1>
+            <h1> Seja Bem Vindo a São Paulo </h1>
 
             <p>
                 O estado de São Paulo é o mais populoso e economicamente desenvolvido do Brasil.
@@ -13,7 +13,7 @@ export default function SaoPaulo()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/SP.png" alt="" />
             </p>
 
             <p>

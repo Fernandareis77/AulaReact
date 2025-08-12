@@ -3,7 +3,7 @@ export default function MinasGerais()
 
     return (
         <div>
-            <h1> Seja Bem Vindo ao Estado de Minas Gerais </h1>
+            <h1> Seja Bem Vindo a Minas Gerais </h1>
 
             <p>
                 Minas Gerais é um estado localizado na região Sudeste do Brasil, conhecido por sua rica história e tradição cultural.
@@ -13,7 +13,7 @@ export default function MinasGerais()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/MG.png" alt="" />
             </p>
 
             <p>

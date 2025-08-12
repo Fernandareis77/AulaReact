@@ -3,7 +3,7 @@ export default function EspiritoSanto()
 
     return (
         <div>
-            <h1> Seja Bem Vindo ao Estado de Espírito Santo </h1>
+            <h1> Seja Bem Vindo ao Espírito Santo </h1>
 
             <p>
                 O Espírito Santo é um estado da região Sudeste do Brasil, conhecido por suas belas praias e pelo porto de Vitória, 
@@ -13,7 +13,7 @@ export default function EspiritoSanto()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/ES.png" alt="" />
             </p>
 
             <p>
