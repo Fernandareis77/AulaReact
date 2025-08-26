@@ -13,7 +13,7 @@ export default function DistritoFederal()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/DF.jpg" alt="" />
             </p>
 
             <p>

@@ -13,7 +13,7 @@ export default function MatoGrossoSul()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/MS.jpg" alt="" />
             </p>
 
             <p>

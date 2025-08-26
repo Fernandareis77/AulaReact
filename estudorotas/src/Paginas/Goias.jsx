@@ -13,7 +13,7 @@ export default function Goias()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/GO.jpg" alt="" />
             </p>
 
             <p>
