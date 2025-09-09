@@ -11,6 +11,7 @@ export default function Exemplo1() {
           O Objetivo será somar dois números e exibir o resultado na tela.
         </p>
 
+
         <form>
           
           <p>
@@ -25,6 +26,10 @@ export default function Exemplo1() {
 
           <p>
             <input type="button" value="Calcular" />
+          </p>
+
+          <p>
+          <a href="/"> Voltar </a>
           </p>
 
         </form>
