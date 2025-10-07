@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import Home from "./Paginas/Home";
 import Exemplo1 from "./Paginas/Exemplo1";
 import Exemplo2 from "./Paginas/Exemplo2";
@@ -13,8 +14,6 @@ import Exercicio7 from "./Paginas/Exercicio7";
 import Exercicio8 from "./Paginas/Exercicio8";
 import Exercicio9 from "./Paginas/Exercicio9";
 import Exercicio10 from "./Paginas/Exercicio10";
-
-
 
 import "./App.css";
 

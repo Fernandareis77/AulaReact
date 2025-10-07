@@ -1,5 +1,28 @@
+import { useState } from "react";
+
 export default function Exercicio1() {
-    return (
+
+  //variavel de estado para os campos de formulario
+  const[numero, setNumero] = useState(); 
+  
+  //variavel de estado para o resultado
+  const[resultado, setResultado] = useState();
+  
+  //função para calcular o quadrado ou o cubo
+  function calcular()
+  {
+
+    let quadrado, cubo;
+
+    quadrado= Number(numero) * Number(numero);
+    cubo = Number(numero) * Number(numero) * Number(numero);
+
+    setResultado("Quadrado: " + quadrado + " Cubo: " + cubo);
+
+  }
+    
+  
+  return (
       <div>
         
         <h1> Exercício 1 </h1>
@@ -12,11 +35,19 @@ export default function Exercicio1() {
             
         <p>
           Digite um número: <br />
-          <input type="number" />
+          <input type="text" value={numero}
+          onChange={(e) => setNumero(e.target.value)} />
         </p>
   
         <p>
-          <input type="button" value="Exercício 1" />
+          <input type="button" value="Exercício 1" onClick={calcular} />
+        </p>
+
+        <p>
+             <b> Resultado </b>
+             <br />
+             Número é {numero} <br />
+             {resultado}
         </p>
   
         <p>
